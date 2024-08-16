@@ -3,9 +3,9 @@
 
 <p align="center">Studying [Computer Science @ AUEB](https://www.dept.aueb.gr/el/infotech-overview)</p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:
 <p align="center">
-<a href="https://linkedin.com/in/christos-pekos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christos pekos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christos-pekos-9ab310251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christos pekos" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
