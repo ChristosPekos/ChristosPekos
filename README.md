@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christos</h1>
 <h3 align="center">A backend developer from Athens, Greece.</h3>
 
-<p align="center">Studying [Computer Science @ AUEB](https://www.dept.aueb.gr/el/infotech-overview)</p>
+
+<p align="center">Studying <a href = "https://www.dept.aueb.gr/el/infotech-overview">[Computer Science @ AUEB]</a></p>
 
 <h3 align="center">Connect with me:
 <p align="center">
